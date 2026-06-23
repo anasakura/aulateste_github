@@ -5,7 +5,8 @@ Este é um repositorio onde vamos iniciar os trabalhos de teste com github.
 
 Aqui vem um exemlo de  como adicionar um texto ao nosso readme.
 
-## Criando um conflito
+##Como criar um PULL REQUEST
 
-Um conflito existe quando o mesmo arquivo é ,odificado em duas branches separadas. o git deve
-controlar qual das alterações vem primeiro e assim garantir a integridade do arquivo
+Para criar um pull request, crie uma nova branch e
+envie suas alterações, logo crie uma solicitação de pull
+request para o branch principal
